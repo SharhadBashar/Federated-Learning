@@ -1,0 +1,7 @@
+Things to try:
+
+1. remove all dropout layers
+2. add one more layer with 128 neurons (with drop out)
+3. add one more layer, with no drop out
+4. different nn for each client (1st with 3 layers, 2nd with 4 layer)
+5. upto 5 common features(columns)
